@@ -5000,6 +5000,263 @@
 			)
 		)
 	)
+	(netclass_flag ""
+		(length 0.254)
+		(shape dot)
+		(at 140.97 64.77 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "174feb35-792b-424d-9f71-679832f6a89b")
+		(property "Netclass" "signal"
+			(at 141.6685 64.516 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 0.254)
+		(shape dot)
+		(at 119.38 176.53 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "435be6be-bcd7-41c4-b02f-b96bc9670208")
+		(property "Netclass" "signal"
+			(at 120.0785 176.276 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 0.254)
+		(shape dot)
+		(at 106.68 176.53 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "503b2f02-b178-4ee9-aede-e2c94b940b0a")
+		(property "Netclass" "signal"
+			(at 107.3785 176.276 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 0.254)
+		(shape dot)
+		(at 142.24 55.88 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "75ddaaca-0c15-4f16-9567-678489f60a3e")
+		(property "Netclass" "signal"
+			(at 142.9385 55.626 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 0.254)
+		(shape dot)
+		(at 52.07 161.29 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "78001c37-7751-4643-a8d1-f3b29d2c9cd0")
+		(property "Netclass" "signal"
+			(at 52.7685 161.036 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 0.254)
+		(shape dot)
+		(at 57.15 156.21 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8880f085-1860-47f7-bde5-0ecc420b5518")
+		(property "Netclass" "signal"
+			(at 57.8485 155.956 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 0.254)
+		(shape dot)
+		(at 120.65 161.29 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "92a03e3f-c7c4-4491-8d33-efb7047d5ab6")
+		(property "Netclass" "signal"
+			(at 121.3485 161.036 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 0.254)
+		(shape dot)
+		(at 252.73 113.03 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b2517346-e24d-4c57-be1a-aff9af25d211")
+		(property "Netclass" "power"
+			(at 253.4285 112.776 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 90.17 138.43 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "be77d7a0-b941-4942-b272-a1747dc43868")
+		(property "Netclass" "power"
+			(at 90.8685 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 0.254)
+		(shape dot)
+		(at 245.11 110.49 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c3b4ea40-27de-407a-8097-c913719e53ff")
+		(property "Netclass" "power"
+			(at 245.8085 110.236 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 0.254)
+		(shape dot)
+		(at 106.68 168.91 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "eacc4b4c-e0b5-4c8d-a9d2-3a55849a031c")
+		(property "Netclass" "signal"
+			(at 107.3785 168.656 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+			)
+		)
+	)
 	(symbol
 		(lib_id "Connector:USB_C_Plug_USB2.0")
 		(at 34.29 158.75 0)
