@@ -178,6 +178,7 @@
       ],
       "track_widths": [
         0.0,
+        0.2,
         0.5,
         1.0
       ],
@@ -496,7 +497,7 @@
         "name": "power",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgb(255, 9, 45)",
-        "track_width": 0.2,
+        "track_width": 0.5,
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
@@ -524,8 +525,17 @@
     },
     "net_colors": null,
     "netclass_assignments": {
+      "IO0": "signal",
+      "MCU_EN": "signal",
       "Net-(J1-Pin_1)": "power",
-      "Net-(J1-Pin_2)": "power"
+      "Net-(J1-Pin_2)": "power",
+      "Net-(P1-D+)": "signal",
+      "Net-(P1-D-)": "signal",
+      "Net-(Q1-B)": "signal",
+      "Net-(Q1-E)": "signal",
+      "Net-(Q2-B)": "signal",
+      "Net-(Q2-E)": "signal",
+      "Net-(U2-V3)": "power"
     },
     "netclass_patterns": [
       {
